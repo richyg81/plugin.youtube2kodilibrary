@@ -21,6 +21,16 @@
         <email></email>
         <source>https://github.com/evantaur/plugin.youtube2kodilibrary</source>
         <news>Changelog:
+            v0.1.0 Beta (2020.11.30)
+            - Support for playlists.
+            - Folder structure changed
+              so channel ID is used
+              instead of channel name.
+            - Fixed search for Leia.
+            - Split addon to multiple
+              files instead of one 
+              blob.
+
             v0.0.8 Beta (2020.6.9)
             - Support for music videos.
               (Thumbnails broken for v19)
