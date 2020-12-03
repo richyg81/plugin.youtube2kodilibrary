@@ -11,5 +11,6 @@
     </category>
     <category label="30009">
         <setting label="30010" type="bool" id="use_cache" default="false"/>        
+        <setting label="logger" type="bool" id="logger" default="false"/> 
     </category>    
 </settings>
